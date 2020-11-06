@@ -18,6 +18,8 @@ namespace leave_management.Mappings
 
             CreateMap<LeaveAllocation, LeaveAllocationVM>().ReverseMap();
 
+            CreateMap<LeaveAllocation, EditLeaveAllocationVM>().ReverseMap();
+
             CreateMap<Employee, EmployeeVM>().ReverseMap();
 
         }

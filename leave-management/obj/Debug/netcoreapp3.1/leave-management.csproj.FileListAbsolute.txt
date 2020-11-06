@@ -486,3 +486,7 @@ C:\Users\YuYu\source\repos\leave-management\leave-management\obj\Debug\netcoreap
 C:\Users\YuYu\source\repos\leave-management\leave-management\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Error.cshtml.g.cs
 C:\Users\YuYu\source\repos\leave-management\leave-management\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
 C:\Users\YuYu\source\repos\leave-management\leave-management\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+C:\Users\YuYu\source\repos\leave-management\leave-management\obj\Debug\netcoreapp3.1\Razor\Views\LeaveAllocation\Index.cshtml.g.cs
+C:\Users\YuYu\source\repos\leave-management\leave-management\obj\Debug\netcoreapp3.1\Razor\Views\LeaveAllocation\ListEmployees.cshtml.g.cs
+C:\Users\YuYu\source\repos\leave-management\leave-management\obj\Debug\netcoreapp3.1\Razor\Views\LeaveAllocation\Details.cshtml.g.cs
+C:\Users\YuYu\source\repos\leave-management\leave-management\obj\Debug\netcoreapp3.1\Razor\Views\LeaveAllocation\Edit.cshtml.g.cs
